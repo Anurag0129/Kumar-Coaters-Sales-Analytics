@@ -17,7 +17,8 @@ Duration: 10 May – 10 Aug 2025 | Role: Business Analyst
 - `/data` → Sales datasets (Excel/CSV)  
 - `/analysis` → Forecasting notebooks/scripts  
 - `/chatbot` → Chatbot model/code  
-- `/ai_parts_sorting` → Image recognition model  
+- `/ai_parts_sorting` → Image recognition model
+
 
 🛠 Tools & Tech
 - Python (Pandas, Matplotlib, TensorFlow, Scikit-Learn)
